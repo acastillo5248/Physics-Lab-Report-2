@@ -1,2 +1,2 @@
 # Physics-Lab-Reports
-Projectile Motion and Conservation of Energy Lab Report
+Physics Labs carried out in Pupin Hall at Columbia University 
