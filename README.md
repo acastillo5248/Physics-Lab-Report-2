@@ -1,2 +1,2 @@
-# Physics-Lab-Report-2
+# Physics-Lab-Reports
 Projectile Motion and Conservation of Energy Lab Report
